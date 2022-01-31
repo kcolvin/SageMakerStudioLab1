@@ -1,2 +1,2 @@
-# SageMakerStudioLab1
-SageMaker Studio Lab #1
+# SageMakerStudioLabs
+Repo for several SageMaker Studio Labs
