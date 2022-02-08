@@ -1,6 +1,6 @@
 Test
 
 
-Added to database:
-kcolvin
-kcolvin-gmail
+Added to database:<BR>
+kcolvin<BR>
+kcolvin-gmail<BR>
